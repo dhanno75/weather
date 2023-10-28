@@ -72,7 +72,6 @@ const WeatherApp = () => {
   return (
     <div className="container">
       <div className="top-bar">
-        Hello there
         <input
           type="text"
           className="cityInput"
